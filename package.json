@@ -1,0 +1,15 @@
+{
+  "name": "interactive-svg-image",
+  "version": "1.0.0",
+  "description": "Write a functionality that allows users to interact with a map in the format of an SVG file",
+  "main": "index.js",
+  "repository": "git@github.com:SolangeUG/interactive-SVG-image.git",
+  "author": "Solange U. Gasengayire <sgasengayire@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^25.3.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
