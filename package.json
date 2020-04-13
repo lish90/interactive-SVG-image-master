@@ -10,6 +10,15 @@
     "jest": "^25.3.0"
   },
   "scripts": {
-    "test": "jest"
+    "bail": 1,
+    "test": "jest",
+    "verbose": "true"
+  },
+  "dependencies": {
+    "bufferutil": "^4.0.1",
+    "canvas": "^2.6.1",
+    "jsdom": "^15.2.1",
+    "utf-8-validate": "^5.0.2",
+    "ws": "^7.2.3"
   }
 }
